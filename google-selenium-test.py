@@ -1,7 +1,9 @@
+# Imports
 from selenium import webdriver
 
-
 # I will assume we are using the FireFox driver.
+
+
 def test_google_selenium(browser):
     "Test Google Selenium"
 
@@ -12,6 +14,9 @@ def test_google_selenium(browser):
     else:
         print('We need to use the Firefox Browser for this test')
 
+    # Variables for Checks
+    total_tests = 2
+    passed_tests = 0
     # Navigate to google.com
     driver.get('https://www.google.com/')
 
@@ -29,9 +34,21 @@ def test_google_selenium(browser):
     selenium_site.click()
 
     # Test that we are at the correct URL.
-    assert driver.current_url == "https://www.seleniumhq.org/"
+    if (driver.current_url == "https://www.seleniumhq.org/"):
+        passed_tests += 1
+        print('This is the correct URL')
+    else:
+        print('The URL is not correct')
+
     # Test that this URL is actually about Selenium
-    assert 'Selenium' in driver.title
-    print('Test Ran')
+    if ('Selenium' in driver.title):
+        passed_tests += 1
+        print('The page title contains Selenium')
+    else:
+        print('The page title does not contain Selenium')
+
+    # Check if all tests were passed
+    assert total_tests == passed_tests
+
     # Exit Browser
     driver.quit()
