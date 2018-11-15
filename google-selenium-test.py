@@ -23,15 +23,15 @@ def test_google_selenium(browser):
     # Find the searchbox by name
     search_box = driver.find_element_by_name('q')
     search_box.send_keys('selenium')
-
-    # Find the Google Search button by name and click it
-    google_search = driver.find_element_by_name('btnk')
-    google_search.click()
+    # Press Enter
+    search_box.send_keys(u'\ue007')
 
     # Find the Selenium Link
     selenium_site = driver.find_elements_by_link_text(
         'Selenium - Web Browser Automation')
+    print('Link Found')
     selenium_site.click()
+    print('Link Clicked')
 
     # Test that we are at the correct URL.
     if (driver.current_url == "https://www.seleniumhq.org/"):
