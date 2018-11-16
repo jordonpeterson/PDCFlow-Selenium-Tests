@@ -28,17 +28,13 @@ def test_google_selenium(browser):
     search_box.send_keys(u'\ue007')
 
     # Find the Selenium Link
-    # time.sleep(5)
-    # selenium_site = driver.find_elements_by_class_name('LC201b')
-    # print('Link Found')
-    # selenium_site[0].click()
-    # print('Link Clicked')
-
-    # To Test the rest of my code I will cheat and go directly to the correct website
-    time.sleep(3)
-    driver.get('https://www.seleniumhq.org/')
+    time.sleep(2)
+    selenium_site = driver.find_element_by_xpath(
+        '//*[@id="rso"]/div[1]/div/div/div/div[1]/a/h3')
+    selenium_site.click()
 
     # Test that we are at the correct URL.
+    time.sleep(5)
     if (driver.current_url == "https://www.seleniumhq.org/"):
         passed_tests += 1
         print('This is the correct URL')
@@ -55,6 +51,7 @@ def test_google_selenium(browser):
     # Check if all tests were passed
     assert total_tests == passed_tests
     print('all tests passed')
+    
     # print(f"{passed_tests} out of {total_tests} passed.")
     # The above line is python 3.6+ syntax that prints how many tests were passed.
     # It is not included in the Python 2.7 that I am using in this environment.
