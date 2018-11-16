@@ -1,0 +1,14 @@
+Running 'SeleniumHQ Navigation/Title Assert'
+1.open on /... OK
+2.setWindowSize on 1280x755... OK
+3.type on name=q with value selenium... OK
+4.sendKeys on name=q with value ${KEY_ENTER}... OK
+5.click on css=h3.LC20lb... OK
+6.assertTitle on Selenium - Web Browser Automation... OK
+'SeleniumHQ Navigation/Title Assert' completed successfully
+Running 'SeleniumHQ Navigation/Title Assert'
+1.open on /... OK
+2.setWindowSize on 1280x755... OK
+3.Trying to find name=q... Failed:
+Message manager disconnected
+'SeleniumHQ Navigation/Title Assert' ended with 1 error(s)
