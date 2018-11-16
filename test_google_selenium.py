@@ -51,7 +51,7 @@ def test_google_selenium(browser):
     # Check if all tests were passed
     assert total_tests == passed_tests
     print('all tests passed')
-    
+
     # print(f"{passed_tests} out of {total_tests} passed.")
     # The above line is python 3.6+ syntax that prints how many tests were passed.
     # It is not included in the Python 2.7 that I am using in this environment.
