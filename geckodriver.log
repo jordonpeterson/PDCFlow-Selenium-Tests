@@ -641,3 +641,15 @@ console.error: BroadcastService:
   Stack:
     remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
 
+1542637132938	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.11WEIUvEJSSb"
+1542637137389	Marionette	INFO	Listening on port 52987
+1542637137452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542637356610	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.2olwUG4u8iT5"
+1542637360043	Marionette	INFO	Listening on port 54019
+1542637360130	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542637588019	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.cQnNrpq4nM5a"
+1542637591373	Marionette	INFO	Listening on port 55082
+1542637591383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542637639939	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.62Y8S0o65kKj"
+1542637643114	Marionette	INFO	Listening on port 55351
+1542637643164	Marionette	WARN	TLS certificate errors will be ignored for this session

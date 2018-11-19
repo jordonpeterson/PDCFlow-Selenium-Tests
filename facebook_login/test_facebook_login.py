@@ -17,9 +17,8 @@ def test_facebook_login(facebook_email='jordon.peterson@students.svu.edu', faceb
     driver.get('https://www.google.com/')
     search_box = driver.find_element_by_name('q')
     search_box.send_keys('facebook')
-
+    time.sleep(1)
     google_search = driver.find_element_by_name('btnK')
-    print('We found the search button')
     google_search.click()
 
 
