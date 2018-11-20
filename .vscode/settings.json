@@ -1,0 +1,8 @@
+{
+    "python.unitTest.pyTestArgs": [
+        "page_objects"
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": true
+}
