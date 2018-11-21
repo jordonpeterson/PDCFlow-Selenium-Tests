@@ -1,0 +1,5 @@
+In this test I attempted to login to Facebook using Selenium Web Driver. 2 step authentication makes this impossible without user input
+of the 6 digit code texted to confirm that you are the account holder. Facebook also blocks your use of 2 step authentication if
+you use it to frequently. I found this out by attempting to test my script repeatedly.
+In the end, I became proficient in using locators to find the appropriate elements, input text and press buttons. I also 
+learned about Facebook's security features.
