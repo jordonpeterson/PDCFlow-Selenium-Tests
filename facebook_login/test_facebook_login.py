@@ -55,4 +55,4 @@ def test_facebook_login(facebook_email='', facebook_password=''):
     driver.find_element_by_id('checkpointSubmitButton').click()
 
 
-test_facebook_login('jordon.peterson@students.svu.edu', 'zDz1slaw_1')
+test_facebook_login()
