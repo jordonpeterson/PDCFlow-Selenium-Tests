@@ -1,0 +1,475 @@
+1542758627190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.vB6MVTiDoOdM"
+1542758630786	Marionette	INFO	Listening on port 51748
+1542758630846	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758640687	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.SK9AO5Sa8gXl"
+1542758643441	Marionette	INFO	Listening on port 51814
+1542758643555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758665453	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.germCQ5w6OUP"
+1542758668006	Marionette	INFO	Listening on port 51868
+1542758668052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758729784	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.Kbbtqv8WcQuE"
+1542758732640	Marionette	INFO	Listening on port 51928
+1542758732753	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542758799280	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.fGCNHsxZqM2l"
+1542758802089	Marionette	INFO	Listening on port 52001
+1542758802178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758808570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.6hhh6Zowp2tP"
+1542758812823	Marionette	INFO	Listening on port 52056
+1542758812896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758870780	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.uCkHkvMetcJ4"
+1542758874713	Marionette	INFO	Listening on port 52129
+1542758874834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758935060	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.gc8NPzPLCmRd"
+1542758937998	Marionette	INFO	Listening on port 52216
+1542758938062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758945121	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.Jrq7lyZjKieL"
+1542758948568	Marionette	INFO	Listening on port 52275
+1542758948617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758972629	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.qkozAgPr9Kj5"
+1542758975759	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.g6qJGMgoKHwm"
+1542758976742	Marionette	INFO	Listening on port 52337
+1542758976831	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758981006	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.GoK70JRB9G94"
+1542758981978	Marionette	INFO	Listening on port 52376
+1542758982207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758986385	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.6X9wqbueUmTo"
+1542758988606	Marionette	INFO	Listening on port 52466
+1542758988800	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542758994081	Marionette	INFO	Listening on port 52558
+1542758994162	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542759126397	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.h4IpccDskfWk"
+1542759130186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.YmISt8Ac0KAo"
+1542759131530	Marionette	INFO	Listening on port 52742
+1542759131589	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759134577	Marionette	INFO	Listening on port 52787
+1542759134733	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759138347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.WExMXxQ8SAtP"
+1542759144186	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.CX8x0XV2EjYg"
+1542759144752	Marionette	INFO	Listening on port 52889
+1542759144827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759149427	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.hONMIYu5DSW9"
+1542759150936	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.ZMGhk4mHh5Xh"
+1542759153093	Marionette	INFO	Listening on port 52963
+1542759153160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759156505	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.iOzHoxyl5F2r"
+1542759159144	Marionette	INFO	Listening on port 53044
+1542759159329	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759162146	Marionette	INFO	Listening on port 53085
+1542759162366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759183233	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.SMHbZVbiTiS4"
+1542759186061	Marionette	INFO	Listening on port 53627
+1542759186121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759208297	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.prLm8a8wnunD"
+1542759211033	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.U21XaFAvHcoe"
+1542759212627	Marionette	INFO	Listening on port 53930
+1542759212747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759214790	Marionette	INFO	Listening on port 53993
+1542759214874	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 17691, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1542759220741	Marionette	INFO	Stopped listening on port 51748
+1542759222359	Marionette	INFO	Stopped listening on port 51814
+1542759223594	Marionette	INFO	Stopped listening on port 51868
+1542759225221	Marionette	INFO	Stopped listening on port 51928
+[Parent 17154, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+1542759226356	Marionette	INFO	Stopped listening on port 52056
+1542759236597	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.Apf5jER86SHq"
+1542759239801	Marionette	INFO	Listening on port 54150
+1542759239854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759244189	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.pqIQkuCwVsy7"
+1542759247837	Marionette	INFO	Listening on port 54206
+1542759247867	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-11-20 17:15:15.479 firefox-bin[17808:3468048] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+1542759343498	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.IHQInzWP1dN2"
+1542759346102	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.41dNYvBHDi3g"
+1542759347758	Marionette	INFO	Listening on port 54320
+1542759347843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759350006	Marionette	INFO	Listening on port 54354
+1542759350073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759359448	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.k7zWerV7odj4"
+1542759362322	Marionette	INFO	Listening on port 54448
+1542759362340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759366386	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.7aNFRxgvgnxg"
+1542759369624	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.zqU07ZDJ2kz7"
+1542759370445	Marionette	INFO	Listening on port 54501
+1542759371062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759376966	Marionette	INFO	Listening on port 54544
+1542759377001	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759382225	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.hPYWZcg4Ee7g"
+1542759382790	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.4NidyRwKiZpR"
+1542759387266	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.08cwqmVNuDmV"
+1542759389979	Marionette	INFO	Listening on port 54689
+1542759390015	Marionette	INFO	Listening on port 54678
+1542759390088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759390128	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759395946	Marionette	INFO	Listening on port 54785
+1542759396075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759401410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.0g7UrbREijzi"
+1542759403470	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.gVf6dalpXMqU"
+1542759404689	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.M5eYfziCMEIh"
+1542759417002	Marionette	INFO	Stopped listening on port 52129
+1542759422821	Marionette	INFO	Stopped listening on port 52337
+1542759424776	Marionette	INFO	Stopped listening on port 52376
+1542759426323	Marionette	INFO	Stopped listening on port 52466
+1542759427653	Marionette	INFO	Stopped listening on port 52558
+1542759429432	Marionette	INFO	Stopped listening on port 52742
+1542759432171	Marionette	INFO	Stopped listening on port 52787
+1542759434473	Marionette	INFO	Stopped listening on port 52889
+1542759436052	Marionette	INFO	Stopped listening on port 52963
+1542759437459	Marionette	INFO	Stopped listening on port 53044
+1542759438817	Marionette	INFO	Stopped listening on port 53085
+1542759440112	Marionette	INFO	Stopped listening on port 53627
+1542759441348	Marionette	INFO	Stopped listening on port 53930
+1542759447784	Marionette	INFO	Stopped listening on port 53993
+1542759450535	Marionette	INFO	Stopped listening on port 54206
+1542759452423	Marionette	INFO	Stopped listening on port 54320
+1542759453809	Marionette	INFO	Stopped listening on port 54354
+1542759455243	Marionette	INFO	Stopped listening on port 54448
+1542759456617	Marionette	INFO	Stopped listening on port 54501
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 18093, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 729
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1542759468565	Marionette	INFO	Stopped listening on port 52275
+1542759469705	Marionette	INFO	Stopped listening on port 54150
+1542759471175	Marionette	INFO	Stopped listening on port 54544
+1542759473487	Marionette	INFO	Stopped listening on port 54678
+1542759475960	Marionette	INFO	Stopped listening on port 54785
+1542759480773	Marionette	INFO	Stopped listening on port 52216
+1542759482018	Marionette	INFO	Stopped listening on port 54689
+1542759483629	Marionette	INFO	Stopped listening on port 52001
+1542759493113	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.VtjyGZeQqMaf"
+1542759495309	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.XJoXfMvjzQEx"
+1542759496321	Marionette	INFO	Listening on port 56808
+1542759496391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759499081	Marionette	INFO	Listening on port 56839
+1542759499190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759501679	Marionette	INFO	Stopped listening on port 56808
+1542759503447	Marionette	INFO	Stopped listening on port 56839
+1542759511559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.wqrzl7xkgEPl"
+1542759513757	Marionette	INFO	Listening on port 56935
+1542759513842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759524987	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.pbbsjYY4O5hY"
+1542759527683	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.dq42tX6uZHJb"
+1542759527846	Marionette	INFO	Listening on port 57006
+1542759527927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759531005	Marionette	INFO	Listening on port 57043
+1542759531114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759534965	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.X3GuhaUld3RQ"
+1542759538729	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.GtYan7hpGHfb"
+1542759541801	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.5o54VQ2uaD6g"
+1542759543743	Marionette	INFO	Listening on port 57128
+1542759543981	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759546526	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.jK9EImf2q8qn"
+1542759548617	Marionette	INFO	Listening on port 57180
+1542759548823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759551370	Marionette	INFO	Listening on port 57267
+1542759551402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759555232	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.Vve98KXfjga6"
+1542759559727	Marionette	INFO	Listening on port 57403
+1542759560032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759563020	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.m8YJEbo53d3a"
+1542759567211	Marionette	INFO	Listening on port 57609
+1542759567283	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759571912	Marionette	INFO	Listening on port 57788
+1542759572009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759583363	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.7fchFeAcC6Wo"
+1542759585996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.h0ljgWRw2rcE"
+1542759587613	Marionette	INFO	Listening on port 58019
+1542759587669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759590444	Marionette	INFO	Listening on port 58054
+1542759590559	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759594538	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.nPCRtcBfDEnK"
+1542759595077	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.rVtRVjAjwCFw"
+1542759604014	Marionette	INFO	Listening on port 58162
+1542759604110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759604392	Marionette	INFO	Listening on port 58173
+1542759604456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759608968	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.zBLTCVPknZRu"
+1542759615599	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.wLbuAlurlE6u"
+1542759617840	Marionette	INFO	Listening on port 58434
+1542759617881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759622082	Marionette	INFO	Listening on port 58522
+1542759622154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759689328	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.grRHPMsVHqry"
+1542759691917	Marionette	INFO	Listening on port 58710
+1542759691946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759707043	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.t24PZMMXxrIU"
+1542759710007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.canyCp5HqoXS"
+1542759710145	Marionette	INFO	Listening on port 58780
+1542759710162	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759713467	Marionette	INFO	Listening on port 58820
+1542759713551	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542759896323	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.zFm2ZcEDgfj5"
+1542759899162	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.0Kcz70GiqlED"
+1542759900016	Marionette	INFO	Listening on port 59006
+1542759900297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759902591	Marionette	INFO	Listening on port 59043
+1542759902762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759970534	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.14xUVyQgBKGa"
+1542759974108	Marionette	INFO	Listening on port 59150
+1542759974200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759992566	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.uan1I35D7Faa"
+1542759994057	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.NSTyOmhglj78"
+1542759996563	Marionette	INFO	Listening on port 59218
+1542759996696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542759999154	Marionette	INFO	Listening on port 59242
+1542759999316	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542760005997	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.kYjtW0WDAfa4"
+1542760009480	Marionette	INFO	Listening on port 59380
+1542760009511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542760037510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.gx6KIZ033MzD"
+1542760040596	Marionette	INFO	Listening on port 59465
+1542760040636	Marionette	WARN	TLS certificate errors will be ignored for this session
