@@ -4,7 +4,7 @@ import time
 import sys
 
 
-def test_facebook_login(facebook_email='jordon.peterson@students.svu.edu', facebook_password='dontyouwishyouknew'):
+def test_facebook_login(facebook_email='', facebook_password=''):
     "Test Facebook Login"
 
     # Create driver and set up initial variables.
@@ -12,6 +12,11 @@ def test_facebook_login(facebook_email='jordon.peterson@students.svu.edu', faceb
 
     total_tests = 0
     passed_tests = 0
+
+    if (not facebook_email):
+        facebook_email = input('Facebook Email')
+    if (not facebook_password):
+        facebook_password = input('Facebook Password')
 
     # Navigate from Google to Facebook.com
     driver.get('https://www.google.com/')
@@ -44,4 +49,4 @@ def test_facebook_login(facebook_email='jordon.peterson@students.svu.edu', faceb
     driver.find_element_by_id('checkpointSubmitButton').click()
 
 
-test_facebook_login(facebook_password='')
+test_facebook_login()

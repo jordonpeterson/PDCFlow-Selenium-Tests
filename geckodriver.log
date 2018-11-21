@@ -473,3 +473,332 @@ console.error: BroadcastService:
 1542760037510	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.gx6KIZ033MzD"
 1542760040596	Marionette	INFO	Listening on port 59465
 1542760040636	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542760177230	Marionette	INFO	Stopped listening on port 59465
+1542760177714	Marionette	INFO	Stopped listening on port 59380
+1542760178250	Marionette	INFO	Stopped listening on port 59242
+1542760178529	Marionette	INFO	Stopped listening on port 59218
+1542760178806	Marionette	INFO	Stopped listening on port 59150
+1542760179222	Marionette	INFO	Stopped listening on port 59043
+1542760179587	Marionette	INFO	Stopped listening on port 59006
+1542760180031	Marionette	INFO	Stopped listening on port 58820
+1542760180459	Marionette	INFO	Stopped listening on port 58780
+1542760180863	Marionette	INFO	Stopped listening on port 58710
+1542760181148	Marionette	INFO	Stopped listening on port 58522
+1542760181431	Marionette	INFO	Stopped listening on port 58434
+1542760181771	Marionette	INFO	Stopped listening on port 58173
+1542760182089	Marionette	INFO	Stopped listening on port 58162
+1542760182395	Marionette	INFO	Stopped listening on port 58054
+1542760182698	Marionette	INFO	Stopped listening on port 58019
+1542760183003	Marionette	INFO	Stopped listening on port 57788
+1542760183291	Marionette	INFO	Stopped listening on port 57609
+1542760183614	Marionette	INFO	Stopped listening on port 57403
+1542760183948	Marionette	INFO	Stopped listening on port 57267
+1542760184280	Marionette	INFO	Stopped listening on port 57180
+1542760184562	Marionette	INFO	Stopped listening on port 57128
+1542760184827	Marionette	INFO	Stopped listening on port 57043
+1542760185086	Marionette	INFO	Stopped listening on port 57006
+1542760185353	Marionette	INFO	Stopped listening on port 56935
+1542761113379	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.8dnhUHGRuCs5"
+1542761116306	Marionette	INFO	Listening on port 49637
+1542761116366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pi.pardot.com/analytics?ver=3&visitor_id=&pi_opt_in=&campaign_id=18576&account_id=64782&title=Online%20Payment%20Portal%2C%20Payment%20Gateway%20Services%20-%20PDCflow&url=https%3A%2F%2Fwww.pdcflow.com%2F&referrer=https%3A%2F%2Fwww.google.com%2F, line 1: SyntaxError: unexpected token: identifier
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript error: https://www.pdcflow.com/, line 5: ReferenceError: gtmYTplayers is not defined
+1542761340807	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.RmDF2vknGEl5"
+1542761343189	Marionette	INFO	Listening on port 49775
+1542761343261	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+1542761394689	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.3Nza55Sohr1Y"
+1542761397149	Marionette	INFO	Listening on port 49853
+1542761397160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761405445	Marionette	INFO	Stopped listening on port 49853
+1542761452831	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.CgFhynklsjwh"
+1542761455460	Marionette	INFO	Listening on port 49927
+1542761455493	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761469118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.aWz8KT1DyHCO"
+1542761472359	Marionette	INFO	Listening on port 49995
+1542761472395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761479569	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.RrT3SMB7CFE1"
+1542761480802	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.oaSBw4w7xedW"
+1542761483779	Marionette	INFO	Listening on port 50075
+1542761483851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761484826	Marionette	INFO	Listening on port 50100
+1542761484872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761491859	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.kWzxX9Wb8JqV"
+1542761494027	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.LVtJrAUMNutM"
+1542761497509	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.neJmvMMoXAEO"
+1542761498942	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.IWeGkfALlVE0"
+1542761499146	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.hTqqCUmYFROy"
+1542761502833	Marionette	INFO	Listening on port 50234
+1542761502910	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761503209	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.qukIgyllKo8l"
+1542761503702	Marionette	INFO	Listening on port 50269
+1542761504043	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761512881	Marionette	INFO	Listening on port 50354
+1542761512996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761516961	Marionette	INFO	Listening on port 50410
+1542761517575	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761518561	Marionette	INFO	Listening on port 50427
+1542761518928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761527549	Marionette	INFO	Listening on port 50646
+1542761527868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761528503	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.btSv0xDi0d6q"
+1542761531979	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.JGTa6ATeG5kQ"
+1542761537817	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.2dPtYYpYJFF3"
+1542761538273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.npSnOI40QwFe"
+1542761539846	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.IDcWYyJIboNk"
+1542761540600	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.3J4f8N21f7Nr"
+1542761542578	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.MwQZgg4lCms4"
+1542761544069	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.Bfz6bOaqk62f"
+1542761546865	Marionette	INFO	Listening on port 51386
+1542761547023	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761549611	Marionette	INFO	Listening on port 51441
+1542761550019	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x580027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1542761558728	Marionette	INFO	Listening on port 51607
+1542761558756	Marionette	INFO	Listening on port 51582
+1542761559035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761559377	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4C000E,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1542761593063	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.uv6eGILNe5bP"
+1542761595864	Marionette	INFO	Listening on port 54325
+1542761595927	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1542761612399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.XB2c9UAXEIiT"
+1542761614949	Marionette	INFO	Listening on port 54740
+1542761614979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761622245	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.usEWNCztAnJB"
+1542761626059	Marionette	INFO	Listening on port 54793
+1542761626147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761631469	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.WXNHSLAkcE2C"
+1542761631899	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.fCYfddeYgysf"
+1542761638093	Marionette	INFO	Listening on port 54878
+1542761638121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761639039	Marionette	INFO	Listening on port 54891
+1542761639200	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761648323	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.JS4D4SZP2EU0"
+1542761650399	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.jNcnbE1c0niI"
+1542761653606	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.3vAIc1SNhnhZ"
+1542761656296	Marionette	INFO	Listening on port 55090
+1542761656448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761658619	Marionette	INFO	Listening on port 55122
+1542761658730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761660826	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.LRnIdSCyBu4o"
+1542761667336	Marionette	INFO	Listening on port 55199
+1542761667405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761679297	Marionette	INFO	Listening on port 55394
+1542761679381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761695299	Marionette	INFO	Stopped listening on port 49637
+1542761697560	Marionette	INFO	Stopped listening on port 49775
+1542761698472	Marionette	INFO	Stopped listening on port 50234
+1542761701604	Marionette	INFO	Stopped listening on port 50269
+1542761703426	Marionette	INFO	Stopped listening on port 50410
+1542761705978	Marionette	INFO	Stopped listening on port 50646
+1542761708738	Marionette	INFO	Stopped listening on port 51582
+1542761709980	Marionette	INFO	Stopped listening on port 51607
+1542761712807	Marionette	INFO	Stopped listening on port 54740
+1542761714761	Marionette	INFO	Stopped listening on port 54793
+1542761718448	Marionette	INFO	Stopped listening on port 51441
+1542761720075	Marionette	INFO	Stopped listening on port 51386
+1542761721466	Marionette	INFO	Stopped listening on port 50427
+1542761722660	Marionette	INFO	Stopped listening on port 50354
+1542761724554	Marionette	INFO	Stopped listening on port 54325
+1542761725949	Marionette	INFO	Stopped listening on port 54878
+1542761727497	Marionette	INFO	Stopped listening on port 54891
+1542761728900	Marionette	INFO	Stopped listening on port 55090
+1542761732905	Marionette	INFO	Stopped listening on port 50100
+1542761734255	Marionette	INFO	Stopped listening on port 55122
+1542761735852	Marionette	INFO	Stopped listening on port 55199
+1542761801904	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.OtPRik0dV986"
+1542761804363	Marionette	INFO	Listening on port 55765
+1542761804463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1542761839244	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/lr/3y7pqptj1qd7f33xq_cnm3tr0000gn/T/rust_mozprofile.E1NtgJmXykCa"
+1542761841555	Marionette	INFO	Listening on port 55816
+1542761841619	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:721:13
+
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://www.nytimes.com/interactive/2018/admin/100000006225931.embedded.html?, line 95: SecurityError: Permission denied to access property "headertag" on cross-origin object
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-31/html/container.html, line 187: ReferenceError: paidpost is not defined
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-P528B3&gtm_auth=tfAzqo1rYDLgYhmTnSjPqw&gtm_preview=env-130&gtm_cookies_win=x, line 1: unreachable code after return statement
+1542828241247	Marionette	INFO	Stopped listening on port 49927
+1542828244369	Marionette	INFO	Stopped listening on port 49995
+1542828246590	Marionette	INFO	Stopped listening on port 50075
+1542828248541	Marionette	INFO	Stopped listening on port 55394
+1542828250418	Marionette	INFO	Stopped listening on port 55765
+1542828252590	Marionette	INFO	Stopped listening on port 55816
