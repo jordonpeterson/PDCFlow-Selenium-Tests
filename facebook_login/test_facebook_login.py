@@ -14,9 +14,9 @@ def test_facebook_login(facebook_email='', facebook_password=''):
     passed_tests = 0
 
     if (not facebook_email):
-        facebook_email = input('Facebook Email')
+        facebook_email = input('Facebook Email: ')
     if (not facebook_password):
-        facebook_password = input('Facebook Password')
+        facebook_password = input('Facebook Password: ')
 
     # Navigate from Google to Facebook.com
     driver.get('https://www.google.com/')
@@ -29,6 +29,7 @@ def test_facebook_login(facebook_email='', facebook_password=''):
     driver.find_element_by_xpath('//h3[1]/a').click()
 
     # Enter Email and Password into Facebook.com
+    time.sleep(2)
     email = driver.find_element_by_id('email')
     email.send_keys(facebook_email)
     password = driver.find_element_by_id('pass')
@@ -37,11 +38,16 @@ def test_facebook_login(facebook_email='', facebook_password=''):
 
     # Two Factor Authentication
     driver.find_element_by_id('u_0_f').click()
+    # Clicks Text Me a Login Code
     driver.find_element_by_id('u_0_h').click()
 
     # Accept 6 digit text message code from user
-    facebook_login_code = input()
+    facebook_login_code = input('Input your 6 digit login code: ')
 
+    # Clicks exit button on 'Need Another Way to Authenticate Screen
+    driver.find_element_by_xpath(
+        '/html/body/div[3]/div[2]/div/div/div/div[1]/div/div[1]/a').click()
+    time.sleep(1)
     facebook_approvals_code_form = driver.find_element_by_id('approvals_code')
     facebook_approvals_code_form.send_keys(facebook_login_code)
     driver.find_element_by_id('checkpointSubmitButton').click()
@@ -49,4 +55,4 @@ def test_facebook_login(facebook_email='', facebook_password=''):
     driver.find_element_by_id('checkpointSubmitButton').click()
 
 
-test_facebook_login()
+test_facebook_login('jordon.peterson@students.svu.edu', 'zDz1slaw_1')
