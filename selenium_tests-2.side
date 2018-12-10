@@ -1,0 +1,169 @@
+{
+  "id": "bbccf5bd-5b1d-405c-9ab9-2bf1b8f18cca",
+  "version": "1.1",
+  "name": "selenium_tests-2",
+  "url": "https://github.com/SeleniumHQ/selenium-ide/tree/master/packages/selenium-side-runner",
+  "tests": [{
+    "id": "722ccf34-d317-40b8-b3b8-0eaacf7035c7",
+    "name": "2-test1",
+    "commands": [{
+      "id": "5b7a8bd9-6ce1-42fb-8ed4-56f790774e1a",
+      "comment": "",
+      "command": "open",
+      "target": "https://github.com/SeleniumHQ/selenium-ide/tree/master/packages/selenium-side-runner",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "029128c8-feeb-45b2-8baa-09a668e3c6ad",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x803",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "c6d26484-117f-411e-87f1-18799c4b2ab7",
+      "comment": "",
+      "command": "click",
+      "target": "css=.px-0:nth-child(3)",
+      "targets": [
+        ["css=.px-0:nth-child(3)", "css:finder"],
+        ["xpath=//div[2]/div[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "579932fe-68bb-43d0-b06f-39831351051c",
+      "comment": "",
+      "command": "verifyText",
+      "target": "linkText=Sign in",
+      "targets": [
+        ["linkText=Sign in", "linkText"],
+        ["css=.HeaderMenu-link:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Sign in')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/login?return_to=%2FSeleniumHQ%2Fselenium-ide%2Ftree%2Fmaster%2Fpackages%2Fselenium-side-runner')]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"]
+      ],
+      "value": "Sign in"
+    }]
+  }, {
+    "id": "f9570db4-b7cf-497d-9ee3-bb42cb19c6e8",
+    "name": "2-test2",
+    "commands": [{
+      "id": "82efc24f-9920-439c-8c7b-0e82f2a4cc94",
+      "comment": "",
+      "command": "open",
+      "target": "https://github.com/SeleniumHQ/selenium-ide/tree/master/packages/selenium-side-runner",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "b2ba5aec-511d-4d90-97dd-e0615f6fd57c",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x803",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "08d55238-a99d-4d49-af60-385d72f68c6c",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Code review",
+      "targets": [
+        ["linkText=Code review", "linkText"],
+        ["css=.f5 > .edge-item-fix:nth-child(1) > .py-2", "css:finder"],
+        ["xpath=//a[contains(text(),'Code review')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/features/code-review/')]", "xpath:href"],
+        ["xpath=//li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c8429bef-d67a-45d5-8c5a-605e849e9cc4",
+      "comment": "",
+      "command": "click",
+      "target": "css=.h000-mktg",
+      "targets": [
+        ["css=.h000-mktg", "css:finder"],
+        ["xpath=//h1", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "842a51b3-0ad9-41e5-bd41-7fe3151d81e2",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.h000-mktg",
+      "targets": [
+        ["css=.h000-mktg", "css:finder"],
+        ["xpath=//h1", "xpath:position"]
+      ],
+      "value": "Write better code"
+    }]
+  }, {
+    "id": "97aa1053-9b99-4702-993d-95e212ec6448",
+    "name": "2-test3",
+    "commands": [{
+      "id": "3002a64b-4b1a-4f71-9048-756573bd6ae2",
+      "comment": "",
+      "command": "open",
+      "target": "https://github.com/SeleniumHQ/selenium-ide/tree/master/packages/selenium-side-runner",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "e7115317-7bdf-48a4-9fd9-581cd9113954",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x803",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "ed6494f6-1459-4ac0-b974-362ba28ea803",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Marketplace",
+      "targets": [
+        ["linkText=Marketplace", "linkText"],
+        ["css=.mr-3:nth-child(4) > .HeaderMenu-link", "css:finder"],
+        ["xpath=//a[contains(text(),'Marketplace')]", "xpath:link"],
+        ["xpath=//a[contains(@href, '/marketplace')]", "xpath:href"],
+        ["xpath=//nav/ul/li[4]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c48c44d6-d076-49a9-a7e4-9a4a0208cc3c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.h00-mktg",
+      "targets": [
+        ["css=.h00-mktg", "css:finder"],
+        ["xpath=//div[@id='js-pjax-container']/div/h1", "xpath:idRelative"],
+        ["xpath=//h1", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8a6a1ab2-8b00-49aa-9306-d253e53fdb4b",
+      "comment": "",
+      "command": "verifyText",
+      "target": "css=.h00-mktg",
+      "targets": [
+        ["css=.h00-mktg", "css:finder"],
+        ["xpath=//div[@id='js-pjax-container']/div/h1", "xpath:idRelative"],
+        ["xpath=//h1", "xpath:position"]
+      ],
+      "value": "GitHub Marketplace"
+    }]
+  }],
+  "suites": [{
+    "id": "d6a30055-a819-4476-a9b6-904645aedfbc",
+    "name": "suite-a",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["722ccf34-d317-40b8-b3b8-0eaacf7035c7", "97aa1053-9b99-4702-993d-95e212ec6448"]
+  }, {
+    "id": "22efe461-f61c-43d2-8a92-f20008c4166e",
+    "name": "suite-b",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["f9570db4-b7cf-497d-9ee3-bb42cb19c6e8"]
+  }],
+  "urls": [],
+  "plugins": []
+}
