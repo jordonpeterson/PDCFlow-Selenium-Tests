@@ -1,0 +1,84 @@
+{
+  "id": "441b6a3d-164d-480a-8eb0-6cc0a35e1a80",
+  "version": "1.1",
+  "name": "practice_selenium_tests",
+  "url": "https://www.pdcflow.com",
+  "tests": [{
+    "id": "92969d76-abda-430f-b2f8-a6bfd8db5f0a",
+    "name": "test1",
+    "commands": [{
+      "id": "7e98debd-f0d2-41e6-a983-f849d0fb2412",
+      "comment": "",
+      "command": "open",
+      "target": "/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "99da4c97-6b57-41a1-9f1f-d7b5c56aa329",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1440x800",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "bd328ddd-1eba-44e4-8582-eae04759806f",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Products",
+      "targets": [
+        ["linkText=Products", "linkText"],
+        ["css=.x-block-grid-item:nth-child(1) > .x-btn", "css:finder"],
+        ["xpath=//a[contains(text(),'Products')]", "xpath:link"],
+        ["xpath=//div[@id='x-section-1']/div/div[2]/ul/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '#products')]", "xpath:href"],
+        ["xpath=//div[2]/ul/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "65f316e6-fbe1-4d5d-9574-2b47596a4e4f",
+      "comment": "",
+      "command": "click",
+      "target": "css=#x-section-2 .x-column:nth-child(2) > .x-btn",
+      "targets": [
+        ["css=#x-section-2 .x-column:nth-child(2) > .x-btn", "css:finder"],
+        ["xpath=(//a[contains(text(),'Learn More')])[2]", "xpath:link"],
+        ["xpath=//div[@id='x-section-2']/div/div[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://www.pdcflow.com/products/accept-ach-payments/')])[3]", "xpath:href"],
+        ["xpath=//div[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "800dbcf6-3e75-4451-a93b-86d7a0040aa8",
+      "comment": "",
+      "command": "click",
+      "target": "css=#x-section-2 .x-1-1 > .h-custom-headline",
+      "targets": [
+        ["css=#x-section-2 .x-1-1 > .h-custom-headline", "css:finder"],
+        ["xpath=//div[@id='x-section-2']/div/div/h2", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/h2", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3fd29ce5-3dd5-4a3d-bbd1-4dddc6cdca7e",
+      "comment": "",
+      "command": "assertText",
+      "target": "css=#x-section-2 .x-1-1 span",
+      "targets": [
+        ["css=#x-section-2 .x-1-1 span", "css:finder"],
+        ["xpath=//div[@id='x-section-2']/div/div/h2/span", "xpath:idRelative"],
+        ["xpath=//div[2]/div/div/h2/span", "xpath:position"]
+      ],
+      "value": "Accept ACH payments online"
+    }]
+  }],
+  "suites": [{
+    "id": "1315a533-88d5-48f9-8151-450ae3be5ab5",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["92969d76-abda-430f-b2f8-a6bfd8db5f0a"]
+  }],
+  "urls": ["https://www.pdcflow.com/"],
+  "plugins": []
+}
